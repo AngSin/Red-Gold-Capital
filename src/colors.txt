@@ -1,0 +1,24 @@
+Whitish: #f4f2f2;
+
+To Do:
+
+Dynamic bio
+LinkedIn
+
+/* <img alt="" src={ require('./pictures/CompanyLI.png') } meta name="keywords" content="Red Gold Capital, redgoldcapital, redgold capital, redgold, private equity search fund,
+khalid khalil, nick doman, jordan matthews, start-up"/> */
+
+annual revenue 10-20
+
+.main .info {
+  border-top: 2px solid rgb(198, 48, 44);
+  float: left;
+  padding-right: 0;
+  cursor: pointer;
+}
+.main .content {
+  border-top: 2px solid rgb(198, 48, 44);
+  padding-bottom: 11%;
+}
+
+border-top: 2px solid rgb(198, 48, 44);

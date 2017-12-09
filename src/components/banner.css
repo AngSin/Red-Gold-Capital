@@ -1,0 +1,8 @@
+.banner {
+  position: inherit;
+  left: 0px;
+  top: -20px;
+}
+.banner img {
+  width: 100%;
+}

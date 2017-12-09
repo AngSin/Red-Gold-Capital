@@ -1,0 +1,48 @@
+.header {
+  position: relative;
+  padding-top: 1%;
+  width: 100%;
+}
+.header .logo {
+  position: absolute;
+  width: 4em;
+}
+.header h1 {
+  position: relative;
+  text-align: center;
+}
+.header a {
+  text-decoration: none;
+  color: #1c1c1c;
+}
+@media screen and (max-width: 600px) {
+  .header h1 {
+    padding-right: 10%;
+    float: right;
+    font-size: 2em;
+  }
+}
+.footer {
+  border-top: 3px solid rgb(198, 48, 44);
+  z-index:20;
+  width: 100%;
+  background-color: #0f0f0f;
+  overflow: inherit;
+  font-size: .7em;
+  border-radius: 0px 0px 10px 10px;
+  color: white;
+}
+.footer .written {
+  overflow: hidden;
+}
+.footer .copyrights {
+    margin-left: 5%;
+}
+.footer .social {
+  position: relative;
+  left: 65%;
+}
+.footer img {
+  width: 25px;
+  margin-left: 4%;
+}
